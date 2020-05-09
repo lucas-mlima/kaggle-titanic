@@ -45,4 +45,6 @@ See: https://www.kaggle.com/c/titanic
 
 Put me in the 85th percentile of the more than 20000 competitors.
 
+We achieved my best score with 3 different models, using Logistic Regression, Linear Discriminant Analysis and Gradient Boosting Classifier (last 2 models with cross-validation and without hyperparameters tune)
+
 
